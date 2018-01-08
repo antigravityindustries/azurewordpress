@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER bartr
+MAINTAINER bartr 
 EXPOSE 2222 80 443
 
 RUN mkdir -p /var/lock/apache2 && mkdir -p /var/log/apache2 && mkdir -p /var/run/apache2 && mkdir -p /usr/local && \
