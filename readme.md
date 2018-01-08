@@ -1,4 +1,4 @@
-## WordPress using Azure MySQL and Azure App Services for Linux
+## WordPress using Azure MySQL and Azure App Services for Linux for antigravityindustries inc 2018
 * Based on Ubuntu 16.04, Apache2 and WordPress 4.7.5    
   or    
   Ubuntu 16.04, NGINX, PHP-FPM and WordPress4.7.5
